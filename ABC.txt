@@ -1,6 +1,11 @@
-<<<<<<< HEAD
-my name is
-=======
 
-surekha tajne
->>>>>>> feature/trial1
+
+
+
+
+
+
+
+
+
++++
